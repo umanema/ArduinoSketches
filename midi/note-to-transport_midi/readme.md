@@ -1,0 +1,1 @@
+I use this sketch for controlling Roland SP-404 Mk2 with Korg SQ-64 sequencer. It allows to change shift midi mapping of Korg up or down by 16 notes at a time to match 16 pads layout of the SP-404. Another feature is being able to trigger Play/Stop events transport events by notes.
